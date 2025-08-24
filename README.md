@@ -3,13 +3,15 @@
 This project demonstrates how Large Language Models (LLMs) can be applied to meteorology by combining geographic analysis, seasonal patterns, and atmospheric science principles into intelligent forecasts.
 
 **Sample Result**
-<img width="1848" height="654" alt="Screenshot 2025-08-24 205222" src="https://github.com/user-attachments/assets/c77ebf1e-79c2-40d6-ae49-671e07c6d554" />
+
+<img width="1839" height="722" alt="Screenshot 2025-08-24 205110" src="https://github.com/user-attachments/assets/fe0b83d9-08b9-4a6a-90a7-23c66af5426e" />
 
 
 <img width="1857" height="739" alt="Screenshot 2025-08-24 205206" src="https://github.com/user-attachments/assets/e7bab2fd-6192-4f07-a673-8d3ffc95b360" />
 
 
-<img width="1839" height="722" alt="Screenshot 2025-08-24 205110" src="https://github.com/user-attachments/assets/fe0b83d9-08b9-4a6a-90a7-23c66af5426e" />
+<img width="1848" height="654" alt="Screenshot 2025-08-24 205222" src="https://github.com/user-attachments/assets/c77ebf1e-79c2-40d6-ae49-671e07c6d554" />
+
 
 
 
