@@ -1,5 +1,5 @@
 # Real-Time-AI-Weather-Prediction-System
-🚀 AI Music Lyrics Generator – An AI-powered tool that creates original lyrics, rhythm patterns, and chord progressions based on your theme. 
+🚀 
 This project demonstrates how Large Language Models (LLMs) can be applied to meteorology by combining geographic analysis, seasonal patterns, and atmospheric science principles into intelligent forecasts.
 
 **Sample Result**
